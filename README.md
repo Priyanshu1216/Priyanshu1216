@@ -1,19 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Priyanshu this side,
 
-<!--
-**Priyanshu1216/Priyanshu1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on honing my skills in Ruby on Rails by building a robust web application for managing personal finances.
+- 🌱 I’m currently learning the ins and outs of the MERN stack (MongoDB, Express.js, React, Node.js) to broaden my expertise in full-stack development.
+- 👯 I’m looking to collaborate on open-source projects that contribute to the developer community and push the boundaries of technology.
+- 🤔 I’m looking for help with optimizing database queries and improving application performance in Rails.
+- 💬 Let's chat about technology trends, software engineering methodologies, or even share recommendations for great books or podcasts!
+- 📫 How to reach me: Feel free to drop me an email at priyanshunigam1607@gmail.com or connect with me on LinkedIn.
+- ⚡ Fun fact: I'm a passionate chess player and love nothing more than a good game of chess. Let's talk strategy sometime!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/priyanshh_u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-nigam/) 
