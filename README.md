@@ -1,5 +1,13 @@
-# 💫 About Me:
-- 🔭 I'm currently diving deep into Ruby on Rails, crafting an exciting web application that promises to redefine user experiences and revolutionize industry standards.<br>- 🌱 I’m currently learning the ins and outs of the MERN stack (MongoDB, Express.js, React, Node.js) to broaden my expertise in full-stack development.<br>- 👯 I’m looking to collaborate on open-source projects that contribute to the developer community and push the boundaries of technology.<br>- 🤔 I’m looking for help with optimizing database queries and improving application performance in Rails.<br>- 💬 Let's chat about technology trends, software engineering methodologies, or even share recommendations for great books or podcasts!<br>- 📫 How to reach me: Feel free to drop me an email at priyanshunigam1607@gmail.com or connect with me on LinkedIn.<br>- ⚡ Fun fact: I'm a passionate chess player and love nothing more than a good game of chess. Let's talk strategy sometime!
+### Hi there 👋 Priyanshu this side,
+
+
+- 🔭 I’m currently working on honing my skills in Ruby on Rails by building a robust web application for managing personal finances.
+- 🌱 I’m currently learning the ins and outs of the MERN stack (MongoDB, Express.js, React, Node.js) to broaden my expertise in full-stack development.
+- 👯 I’m looking to collaborate on open-source projects that contribute to the developer community and push the boundaries of technology.
+- 🤔 I’m looking for help with optimizing database queries and improving application performance in Rails.
+- 💬 Let's chat about technology trends, software engineering methodologies, or even share recommendations for great books or podcasts!
+- 📫 How to reach me: Feel free to drop me an email at priyanshunigam1607@gmail.com or connect with me on LinkedIn.
+- ⚡ Fun fact: I'm a passionate chess player and love nothing more than a good game of chess. Let's talk strategy sometime!
 
 
 ## 🌐 Socials:
